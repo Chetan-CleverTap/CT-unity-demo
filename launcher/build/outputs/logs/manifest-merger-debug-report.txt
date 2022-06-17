@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:3:1-123:12
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:17:1-49:12
+MERGED from [:ARPresto:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/5ea6544452036c2f22a9d887c8223f38/jetified-ARPresto/AndroidManifest.xml:2:1-11:12
+MERGED from [:unityandroidpermissions:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/18e8d7e9c179998d3b972d4c2411f348/jetified-unityandroidpermissions/AndroidManifest.xml:6:1-15:12
+MERGED from [:UnityARCore:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/0a6b62d1df0f28abb931a4203f2cdb31/jetified-UnityARCore/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:70-102
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:103-149
+	android:versionCode
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:3:150-190
+supports-screens
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:4:3-163
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-19:40
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-19:40
+	android:largeScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:5:3-116
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:5-121:19
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:5-121:19
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:11:5-20
+MERGED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:33:5-47:19
+	android:extractNativeLibs
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:label
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:5:49-81
+	android:icon
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml:5:82-113
+uses-sdk
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:41
+MERGED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:25:5-27:41
+MERGED from [:ARPresto:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/5ea6544452036c2f22a9d887c8223f38/jetified-ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:ARPresto:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/5ea6544452036c2f22a9d887c8223f38/jetified-ARPresto/AndroidManifest.xml:7:5-9:41
+MERGED from [:unityandroidpermissions:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/18e8d7e9c179998d3b972d4c2411f348/jetified-unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/18e8d7e9c179998d3b972d4c2411f348/jetified-unityandroidpermissions/AndroidManifest.xml:11:5-13:41
+MERGED from [:UnityARCore:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/0a6b62d1df0f28abb931a4203f2cdb31/jetified-UnityARCore/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityARCore:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/0a6b62d1df0f28abb931a4203f2cdb31/jetified-UnityARCore/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:22-65
+uses-feature#0x00020000
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-72
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:5-41:35
+	android:required
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-50
+uses-feature#com.google.ar.core.depth
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:5-44:35
+	android:required
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:44:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-48
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:47:9-68:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:54:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:52:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:51:13-48
+	android:exported
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:50:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:53:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:49:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:55:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:48:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:59:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:62:13-64:40
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:64:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:63:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:65:13-67:40
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:67:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:66:17-53
+meta-data#FCM_SENDER_ID
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:91:9-93:47
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:92:13-41
+meta-data#CLEVERTAP_ACCOUNT_ID
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:94:9-96:49
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:96:13-46
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:95:13-48
+meta-data#CLEVERTAP_TOKEN
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:97:9-99:44
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:99:13-41
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:98:13-43
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:100:9-102:33
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:102:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:101:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:103:9-105:36
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:105:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:104:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:106:9-108:37
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:108:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:107:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:109:9-111:50
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:111:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:110:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:112:9-114:68
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:114:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:113:13-42
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:115:9-117:36
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:117:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:116:13-61
+meta-data#com.google.ar.core
+ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:118:9-120:40
+	android:value
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:120:13-37
+	android:name
+		ADDED from [:unityLibrary] /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/build/intermediates/merged_manifest/debug/AndroidManifest.xml:119:13-46
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:2.2] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/45268ccf0042f4b4b145c54873e83932/jetified-installreferrer-2.2/AndroidManifest.xml:9:22-107
+queries
+ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] /Users/chetan.a/.gradle/caches/transforms-2/files-2.1/159f36080cd872f2afe87dd24f5c4aa6/jetified-arcore_client/AndroidManifest.xml:41:13-62

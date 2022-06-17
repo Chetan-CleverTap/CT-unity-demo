@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExportUnityAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/ExportUnityAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/ExportUnityAndroid.launcher.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/FirebaseApp.androidlib/ExportUnityAndroid.unityLibrary.FirebaseApp.androidlib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/ExportUnityAndroid.unityLibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:1-56:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:1-56:12
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:1-56:12
+	package
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:70-98
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:146-171
+	xmlns:tools
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:99-145
+	xmlns:android
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:172-195
+	android:installLocation
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:3:196-236
+supports-screens
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:4:135-160
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:5:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:6:3-77
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:6:20-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:7:3-80
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:7:20-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:8:3-66
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:8:20-63
+uses-feature#0x00020000
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:9:3-52
+	android:glEsVersion
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:9:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:10:3-88
+	android:required
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:10:61-85
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:10:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:11:3-99
+	android:required
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:11:72-96
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:11:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:12:3-108
+	android:required
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:12:81-105
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:12:17-80
+application
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:13:3-52:17
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:5-21:16
+	android:screenOrientation
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:93-131
+	android:launchMode
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:132-163
+	android:hardwareAccelerated
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:381-416
+	android:exported
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:417-440
+	android:resizeableActivity
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:346-380
+	android:configChanges
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:164-345
+	android:theme
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:51-92
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:14:15-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:15:7-18:23
+action#android.intent.action.MAIN
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:17:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:19:7-82
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:19:59-79
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:19:18-58
+meta-data#android.notch_support
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:20:7-78
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:20:55-75
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:20:18-54
+meta-data#FCM_SENDER_ID
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:42:5-79
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:42:45-76
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:42:16-44
+meta-data#CLEVERTAP_ACCOUNT_ID
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:43:5-88
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:43:52-85
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:43:16-51
+meta-data#CLEVERTAP_TOKEN
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:44:5-78
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:44:47-75
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:44:16-46
+meta-data#unity.splash-mode
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:45:5-69
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:45:49-66
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:45:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:46:5-74
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:46:51-71
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:46:16-50
+meta-data#unity.allow-resizable-window
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:47:5-84
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:47:60-81
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:47:16-59
+meta-data#notch.config
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:48:5-81
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:48:44-78
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:48:16-43
+meta-data#unity.build-id
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:49:5-101
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:49:46-98
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:49:16-45
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:50:5-88
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:50:65-85
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:50:16-64
+meta-data#com.google.ar.core
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:51:5-77
+	android:value
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:51:50-74
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:51:16-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:53:3-63
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:53:20-60
+uses-feature#android.hardware.camera.ar
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:54:3-85
+	android:required
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:54:59-82
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:54:17-58
+uses-feature#com.google.ar.core.depth
+ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:55:3-83
+	android:required
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:55:57-80
+	android:name
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml:55:17-56
+uses-sdk
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/chetan.a/Documents/ExportUnityAndroid/unityLibrary/src/main/AndroidManifest.xml
